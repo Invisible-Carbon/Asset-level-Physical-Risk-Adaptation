@@ -1,0 +1,9 @@
+Property_ID,Address,Property_Type,Square_Footage,Latitude,Longitude,Vacancy_Status,Last_Occupied
+SC001,"1455 Markham Road, Scarborough",Strip Mall,85000,43.7855,-79.2298,100%,2023
+SC002,"300 Borough Drive, Scarborough",Factory,250000,43.7734,-79.2856,100%,2022
+SC003,"2900 Warden Avenue, Scarborough",Strip Mall,75000,43.8089,-79.2187,100%,2024
+SC004,"1200 Ellesmere Road, Scarborough",Commercial Building,180000,43.7686,-79.2643,100%,2023
+SC005,"4040 Finch Avenue East, Scarborough",Factory,320000,43.7951,-79.1398,100%,2021
+SC006,"2625 Lawrence Avenue East, Scarborough",Strip Mall,95000,43.7429,-79.2187,100%,2023
+SC007,"3850 Sheppard Avenue East, Scarborough",Commercial Building,160000,43.7891,-79.1876,100%,2024
+SC008,"1333 Kennedy Road, Scarborough",Parking Lot,130000,43.7376,-79.2834,100%,2022
