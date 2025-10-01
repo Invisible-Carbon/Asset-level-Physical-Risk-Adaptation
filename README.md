@@ -1,6 +1,6 @@
 # Climate Risk Assessment for October 3, 2025 made by Invisible Carbon
 
-## 🌡️ 59 EXTREME HEAT DAYS BY 2050
+## 🌡️ 59 EXTREME HEAT DAYS IN SCARBOROUGH BY 2050
 
 ### Quick Start
 1. Install: `pip install pandas numpy requests`
