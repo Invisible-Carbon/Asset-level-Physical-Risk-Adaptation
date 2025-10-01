@@ -1,4 +1,4 @@
-# Climate Risk Assessment for October 3, 2025 made by Invisible Carbon
+# Toronto Climate Risk Assessment for October 3, 2025 made by Invisible Carbon
 
 ## 🌡️ 59 EXTREME HEAT DAYS IN SCARBOROUGH BY 2050
 
