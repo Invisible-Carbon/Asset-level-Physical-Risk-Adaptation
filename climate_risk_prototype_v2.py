@@ -1,5 +1,5 @@
 
-# RiskThinking.ai Climate Risk Assessment Prototype
+# Invisible Carbon Climate Risk Assessment Prototype
 # Updated with 59 Extreme Heat Days and Property-Specific Heat Amplification
 
 import requests
@@ -17,7 +17,7 @@ class ClimateRiskAssessment:
             "Content-Type": "application/json"
         }
         # Updated parameters based on RiskThinking.ai 2°C-3°C scenario
-        self.extreme_heat_days_2050 = 59  # Updated from 40
+        self.extreme_heat_days_2050 = 59  # Updated
         self.extreme_heat_threshold = 35  # Celsius
         self.current_baseline_heat_days = 25
 
